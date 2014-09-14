@@ -16,7 +16,7 @@ This will help to quick start google plus API integrtion with codeigniter.
 
 #Setup only google plus#
 1. Download the repository in www directory
-2. Copy the `cp -r application/third_party/Google /yourpath`
+2. Copy the Google client library `cp -r application/third_party/Google /yourpath`
 3. Copy library file from `cp application/libraries/Googleplus.php application/libraries/`
 4. Copy config file from `cp application/config/googleplus.php application/config/`
 5. Change the google api configuration options in `vim application/config/googleplus.php` 
