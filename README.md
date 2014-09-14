@@ -21,7 +21,7 @@ This will help to quick start google plus API integrtion with codeigniter.
 4. Copy config file from `cp application/config/googleplus.php application/config/`
 5. Change the google api configuration options in `vim application/config/googleplus.php` 
 6. Add `$config['encryption_key'] = Your key` in `vim application/config/config.php` to enable session library.
-7. For google plus intialization & posting moment Check `vim application/controllers/welcome.php` file.
+7. For google plus code intialization & posting moment Check `vim application/controllers/welcome.php` file.
 8. You can then load the library like this `$this->load->library('googleplus');`
   
   
