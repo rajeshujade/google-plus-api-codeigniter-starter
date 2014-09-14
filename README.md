@@ -32,9 +32,10 @@ Uses the Google APIs Client Library for PHP https://github.com/google/google-api
 ### Google Registration ###
 1. https://console.developers.google.com
 2. Create New Project
-3. APIs & Auth->APIs 
-4. APIs & Auth->Credentials->Create new Client ID
-5. APIs & Auth->Credentials->Create New Key->Browser key
+3. APIs & Auth->APIs ![Register API](https://github.com/rajeshujade/google-plus-api-codeigniter-starter/blob/master/screenshot/3.png)
+4. APIs & Auth->Credentials->Create new Client ID ![Client ID](https://github.com/rajeshujade/google-plus-api-codeigniter-starter/blob/master/screenshot/4.png)
+5. APIs & Auth->Credentials->Create New Key->Browser key![Browser Key](https://github.com/rajeshujade/google-plus-api-codeigniter-starter/blob/master/screenshot/5.png)
 6. APIs & Auth->Consent Screen(This is very imporant step. As it will give you authentication error)
    * Set Email Address
    * Product Name
+![Register API](https://github.com/rajeshujade/google-plus-api-codeigniter-starter/blob/master/screenshot/6.png)
