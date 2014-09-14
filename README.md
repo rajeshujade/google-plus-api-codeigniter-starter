@@ -10,7 +10,7 @@ This will help to quick start google plus API integrtion.
 1. Download the repository in www directory
 2. In the root directory apache configuration file is provided. Copy this file in apache config folder and restart the server.
 3. Set apache own & directory permission to directory
-4. mAdd host entry for googlecodeigniter.com
+4. Add host entry for googlecodeigniter.com
 5. You are ready to authorize and post moment.
 
 #Setup only google plus#
