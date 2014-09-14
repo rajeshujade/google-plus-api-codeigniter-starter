@@ -35,6 +35,6 @@ Uses the Google APIs Client Library for PHP https://github.com/google/google-api
 3. APIs & Auth->APIs 
 4. APIs & Auth->Credentials->Create new Client ID
 5. APIs & Auth->Credentials->Create New Key->Browser key
-6. APIs & Auth->Consent Screen
+6. APIs & Auth->Consent Screen(This is very imporant step. As it will give you authentication error)
    * Set Email Address
    * Product Name
