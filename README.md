@@ -10,7 +10,7 @@ This will help to quick start google plus API integrtion with codeigniter.
 1. Download the repository in www directory
 2. In the root directory apache configuration file is provided. Copy this file in apache config folder and restart the server.
 3. Change the google api configuration options in `vim application/config/googleplus.php` 
-4. Set apache own & directory permission to directory
+4. Set apache owner & directory permission to directory
 5. Add host entry for googlecodeigniter.com
 6. You are ready to authorize and post moment.
 
