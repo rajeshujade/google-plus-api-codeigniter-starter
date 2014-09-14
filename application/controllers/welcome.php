@@ -10,10 +10,10 @@ class Welcome extends CI_Controller {
      * Index Page for this controller.
      *
      * Maps to the following URL
-     * 		http://example.com/index.php/welcome
-     * 	- or -  
-     * 		http://example.com/index.php/welcome/index
-     * 	- or -
+     *      http://example.com/index.php/welcome
+     *  - or -  
+     *      http://example.com/index.php/welcome/index
+     *  - or -
      * Since this controller is set as the default controller in 
      * config/routes.php, it's displayed at http://example.com/
      *
@@ -77,6 +77,7 @@ class Welcome extends CI_Controller {
 
             $momentResult = $this->_gp_plus->moments->insert('me', 'vault', $this->_gp_moment);
             print_R($momentResult);
+            echo anchor('https://plus.google.com/apps/activities', 'Check Posted Activity',array('target'=>'_blank'));
         } catch (Google_Auth_Exception $e) {
             print_r($e);
         }
