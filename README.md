@@ -1,6 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Just upload these files into your CodeIgniter application folder and set the config variables. You can then load the library like this
+  $this->load->library('googleplus');
+  
+Read the full API docs on the Google+ website http://developers.google.com/+/api
+
+Uses the Google APIs Client Library for PHP
+https://github.com/google/google-api-php-client
+
 
 ### What is this repository for? ###
 
