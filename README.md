@@ -1,6 +1,6 @@
 # README #
 
-This will help to quick start google plus API integrtion.
+This will help to quick start google plus API integrtion with codeigniter.
 
 
 ### Installation ###
