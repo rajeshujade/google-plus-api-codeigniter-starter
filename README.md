@@ -14,7 +14,7 @@ This will help to quick start google plus API integrtion with codeigniter.
 5. Add host entry for googlecodeigniter.com
 6. You are ready to authorize and post moment.
 
-#Setup only google plus#
+#Setup only google plus library#
 1. Download the repository in www directory
 2. Copy the Google client library `cp -r application/third_party/Google /yourpath`
 3. Copy library file from `cp application/libraries/Googleplus.php application/libraries/`
